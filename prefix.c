@@ -1,5 +1,4 @@
 // Author: Satheyaseelan Sugieethan
-// Student ID: 20318670
 #include <stdio.h>
 #include <stdlib.h> // Required for rand() and srand()
 #include <time.h>   // Required for time()
